@@ -7,6 +7,7 @@
 ### Datos Personales
 - Mi nombre es: Gonzalo Herlein.
 - Vivo en Hurlingham.
+- Actualmente tengo 23 años
 
 
 ### Otra Información
