@@ -4,7 +4,7 @@
 ## Presentación Personal
 
 ### Datos Personales
-[Foto](./photo.jpeg)
+![Foto](./photo.jpeg)
 - Mi nombre es:
 - Vivo en
 
