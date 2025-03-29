@@ -2,9 +2,9 @@
 
 # Programación con objetos I
 ## Presentación Personal
+![Foto](./photo.jpeg)
 
 ### Datos Personales
-![Foto](./photo.jpeg)
 - Mi nombre es: Gonzalo Herlein.
 - Vivo en Hurlingham.
 
